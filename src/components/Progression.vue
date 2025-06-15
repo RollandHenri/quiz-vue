@@ -1,5 +1,7 @@
 <script setup></script>
 
-<template></template>
+<template>
+  <progress></progress>
+</template>
 
 <style scoped></style>
